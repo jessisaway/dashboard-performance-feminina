@@ -1,6 +1,5 @@
 # 🚀 Dashboard de Performance - Empoderamento Feminino 
-> **Desafio Online Geral - Programa de Estágio Elas por Elas no Banco BV**
-> Status do Projeto: Concluído
+> **Desafio Online Geral - Programa de Estágio Elas por Elas no Banco BV** - Status do Projeto: Concluído
 
 Este projeto apresenta uma solução tecnológica para combater a invisibilidade financeira da mulher empreendedora no Brasil. Através de um dashboard intuitivo, a proposta transforma dados brutos em autonomia, permitindo a gestão completa de KPIs e o planejamento estratégico para pequenos negócios.
 
